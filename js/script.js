@@ -3,7 +3,7 @@ const hoursEl = document.querySelector('.hours');
 const minutesEl = document.querySelector('.minutes');
 const secondsEl = document.querySelector('.seconds');
 
-const newDate = "11 março 2022";
+const newDate = "11 abril 2022";
 
 function countdown() {
 
